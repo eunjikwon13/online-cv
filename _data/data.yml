@@ -7,107 +7,151 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Sunghye Park
-    tagline: Master Student of CAD & Soc Design
-    avatar: SHP.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Eunji Kwon
+    tagline: 
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: shpark96@postech.ac.kr
-    website: sunghyepark.github.io/online-cv/ #do not add http://
-    github: sunghyepark
+    email: eunjikwon@postech.ac.kr
+    phone:
+    website:  #do not add http://
+    linkedin: 
+    github: 
+    gitlab:
+    bitbucket:
+    twitter: 
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: Korean
-        level: Native
+      - idiom: 
+        level: 
 
-      - idiom: English
-        level: Elementary
+      - idiom: 
+        level: 
+
+      - idiom: 
+        level: 
 
     interests:
-      - item: Quantum Computing / Quantum compiler
+      - item: 
         link:
 
-      - item: VLSI CAD
+      - item: 
+        link:
+
+      - item: 
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Sunghye Park is currently a Master student in the Department of Electrical Engineering, 
-      Pohang University of Science and Technology (POSTECH), Korea. She is working with Prof. Seokhyeong Kang in [CAD & SoC Design Lab.](http://csdl.postech.ac.kr)  
-      
-      Her current research interests include quantum computing and VLSI CAD.  
-      
+      Eunji Kwon received the B.S. dgree in mechanical engineering in 2017 
+      from Ulsan National Institute of Science and Technology (UNIST), Ulsan,
+      South Korea. She is currently pursuing the M.S. dgree in electrical 
+      engineering in 2019 from Pohang University of Science and Technology,
+      Pohang, South Korea. Her current research interests include MPSoC design
+      methodology, system-level power/thermal analysis and management, and 
+      power-efficient deep learning neural network architecture. 
+
 education:
-    - degree: M.Sc in Electrical Engineering
-      university: Pohang University of Science and Technology, Pohang, Republic of Korea 
-      time: Feb.2019 - (Ongoing) 
-      details: | 
-          - Advisor: Prof. Seokhyeong Kang 
-          
-    - degree: B.Sc in Electronics Engineering
-      university: Kyungpook National University, Daegu, Republic of Korea 
-      time: Mar.2015 - Feb.2019
-       
+    - degree: MSc in electrical engineering
+      university: POSTECH
+      time: Feb. 2019 - Feb. 2021
+      details: |
+        
+    - degree: BSc in mechanical engineering
+      university: UNIST
+      time: Mar. 2013 - July. 2017
+      details: |
+     
 experiences:
-    - role: Graduate Student 
-      time: Feb.2019 - Present
-      company: CAD & SoC Design Lab in POSTECH, Prof. Seokhyeong Kang
+    - role: Graduate Student
+      time: Feb. 2019 ~ Present
+      company: CAD & SoC Design Lab in POSTECH, Prof. Seokyeong Kang
       details: |
-    
-    - role: Undergraduate Student Researcher 
-      time: Jun.2018 - Jul.2017
-      company: CAD & SoC Design Lab in POSTECH, Prof. Seokhyeong Kang 
+        
+    - role: Undergraduate Studnet Researcher Intern 
+      time: Jan. 2017 ~ Feb. 2017 
+      company: LAB: ACRC Lab in WPI, Boston, Pdoc. Eunkyung 
       details: |
-      
-    - role: Undergraduate Student Researcher 
-      time: Feb.2018 - May.2017
-      company: Mobile SOC & Microprocessor Lab in KNU, Prof. Joonho Kong  
+
+    - role: 
+      time: 
+      company: 
       details: |
-      
-      
-      
-      
+
 projects:
     title: Projects
+    intro: >
 
     assignments:
-      - title: Scalable Quantum Computer Technology Platform Center
-        tagline: "NRF, Jul.2019 - Feb.2026"
+      - title: Deep learning and Development of Voice Interactive Smart Home Control System Based on Internet of Home Things (IoHT)
+        link: 
+        tagline: POSCO Future IT Convergence Research Institute, POSTECH, et al., Dec.2017 - Dec.2020
+
+      - title: Power/thermal analysis and management for MPSoC mobile device systems
+        link: 
+        tagline: Samsung Electronics, July. 2014 - June. 2021
+
+      - title:  Autonomous Accuracy Scaling for Ultra-low-power Intelligent Mobile Systems
+        link: 
+        tagline: Samsung Science & Technology Foundation, POSTECH, et al., Aug.2017 - Jul.2020
         
-      - title: Graphene Barristor-based Ternary Logic Architecture Research
-        tagline: "NRF, Aug.2016 - Jul.2021"
+      - title: 
+        link: 
+        tagline: 
+        
+      - title: 
+        link: 
+        tagline: 
         
 publications:
-    # very confusing but publication --> journal and conference... site.data.data error
-    title: Papers 
+    title: Publications
+    intro: |
+  
     papers:
-      - title: "Multi-Threshold Voltages Graphene Barristor-Based Ternary ALU"
-        authors: <strong>Sunghye Park</strong>, Sunmean Kim and Seokhyeong Kang
-        conference: "<I>International SoC Design Conference (ISOCC) </I>, Oct, 2019"
-        
-      - title: "Design of Quad-Edge-Triggered Sequential Logic Circuits for Ternary Logic"
-        authors: Sunmean Kim, Sung-Yun Lee, <strong>Sunghye Park</strong> and Seokhyeong Kang
-        conference: "<I>IEEE 49th International Symposium on Multiple-Valued Logic (ISMVL) </I>, May, 2019"
-         
-awards:
-    title: Awards
-    awards:
-        - title: "Best paper award at SoC conference (in Korea), 2019"
-    
+      - title: Outlier-aware Time-multiplexing MAC for Higher Energy-Efficiency on CNNs
+        link: "#"
+        authors: Eunji Kwon, Yesung Kang, Seokhyeong Kang
+        conference: "ISOCC, Oct. 2019"
+
+      - title: 
+        link: 
+        authors: 
+        conference: 
+
+      - title: 
+        link:
+        authors: 
+        conference: 
+
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Linux
-        level: 80%
+        level: 50%
 
-      - name: C++
+      - name: Python
         level: 70%
 
       - name: Verilog
         level: 70%
-        
-        
+
+      - name: Cadence-NC Verilog & Simvision
+        level: 85%
+
+      - name: Synopsys-Design Compiler
+        level: 85%
+
+      - name: Xilinx-Vivado
+        level: 70%
+             
+      - name: Xilinx-Petalinux
+        level: 70%
+
+
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
