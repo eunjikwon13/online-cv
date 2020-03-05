@@ -24,12 +24,12 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: 
-        level: 
+    languages: 
+      - idiom: Korean
+        level: Native
 
-      - idiom: 
-        level: 
+      - idiom: English
+        level: Advanced
 
       - idiom: 
         level: 
@@ -74,12 +74,12 @@ experiences:
         
     - role: Undergraduate Studnet Researcher Intern 
       time: Jan. 2017 ~ Feb. 2017 
-      company: LAB ACRC Lab in WPI, Boston, Pdoc. Eunkyung 
+      company: LAB ACRC Lab in WPI, Boston, Pdoc. Eunkyung Lee
       details: |
 
-    - role: 
-      time: 
-      company: 
+    - role: Undergraduate Student Researcher Intern
+      time: June. 2016 ~ Aug. 2016
+      company: BiRC Lab in UNIST, Prof. Joonbum Bae
       details: |
 
 projects:
@@ -99,13 +99,7 @@ projects:
         link: 
         tagline: Samsung Science & Technology Foundation, POSTECH, et al., Aug.2017 - Jul.2020
         
-      - title: 
-        link: 
-        tagline: 
-        
-      - title: 
-        link: 
-        tagline: 
+   
         
 publications:
     title: Publications
@@ -113,9 +107,9 @@ publications:
   
     papers:
       - title: Outlier-aware Time-multiplexing MAC for Higher Energy-Efficiency on CNNs
-        link: "#"
+        link: 
         authors: Eunji Kwon, Yesung Kang, Seokhyeong Kang
-        conference: "ISOCC, Oct. 2019"
+        conference: <\I> ISOCC Oct. 2019 <\I>
 
       - title: 
         link: 
