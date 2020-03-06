@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Eunji Kwon
     tagline: 
-    avatar: ejkwon.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: ejkwon.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: eunjikwon@postech.ac.kr
@@ -31,8 +31,7 @@ sidebar:
       - idiom: English
         level: Advanced
 
-      - idiom: 
-        level: 
+     
 
     interests:
       - item: Deep Learning Hardware Design / FPGA
@@ -108,18 +107,10 @@ publications:
     papers:
       - title: Outlier-aware Time-multiplexing MAC for Higher Energy-Efficiency on CNNs
         link: 
-        authors: Eunji Kwon, Yesung Kang, Seokhyeong Kang
-        conference: <\I> ISOCC Oct. 2019 <\I>
+        authors: <strong>Eunji Kwon</strong>, Yesung Kang, Seokhyeong Kang
+        conference: "<I>International SoC Design Conference (ISOCC) </I>, Oct, 2019"
+                
 
-      - title: 
-        link: 
-        authors: 
-        conference: 
-
-      - title: 
-        link:
-        authors: 
-        conference: 
 
 skills:
     title: Skills &amp; Proficiency
