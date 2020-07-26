@@ -117,10 +117,10 @@ publications:
         authors: Eunji Kwon, Yesung Kang, Seokhyeong Kang
         conference: "ISOCC, Oct. 2019"
 
-      - title: 
-        link: 
-        authors: 
-        conference: 
+      - title: Late Breaking Results: Reinforcement Learning-based Power Management Policy for Mobile Device Systems
+        link: "#"
+        authors: Eunji Kwon, Sodam Han, Yoonho Park, YoungHwan Kim, Seokhyeong Kang
+        conference: "DAC, July. 2020"
 
       - title: 
         link:
@@ -144,7 +144,7 @@ skills:
         level: 85%
 
       - name: Synopsys-Design Compiler
-        level: 85%
+        level: 75%
 
       - name: Xilinx-Vivado
         level: 70%
