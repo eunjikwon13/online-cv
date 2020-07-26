@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Eunji Kwon
     tagline: 
-    avatar: ejkwon.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: EunjiKwon.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: eunjikwon@postech.ac.kr
@@ -109,6 +109,12 @@ publications:
         link: 
         authors: <strong>Eunji Kwon</strong>, Yesung Kang, Seokhyeong Kang
         conference: "<I>International SoC Design Conference (ISOCC) </I>, Oct, 2019"
+       
+    papers:
+      - title: Late Breaking Results: Reinforcement Learning-based Power Management Policy for Mobile Device Systems
+        link: 
+        authors: <strong>Eunji Kwon</strong>, Sodam Han, Yoonho Park, YoungHwan Kim, Seokhyeong Kang
+        conference: "<I>57th ACM/IEEE Design Automation Conference (DAC) </I>, July, 2020"
                 
 
 
