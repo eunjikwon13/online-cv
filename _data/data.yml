@@ -44,9 +44,8 @@ sidebar:
 career-profile:
     title: Research SW/HW Co-Designer
     summary: |
-      Taegon Kim is a postdoctoral associate with NorthStar Initiative for Sustainable Enterprise at the University of Minnesota’s Institute on the Environment. He received his M.S. and Ph.D. in rural systems engineering and his B.S. in agricultural civil engineering from Seoul National University in South Korea.
-    
-      He is now developing simulation models and web-based interactive tools for agricultural supply chain decision-makers at IonE. He is particularly interested in developing a simulation platform that will allow researchers to easily build, test, evaluate, and visualize models related to agricultural and environmental research.
+      <strong>Eunji Kwon</strong> received the B.S. degree in mechanical engineering in 2017 from Ulsan National Institute of Science and Technology (UNIST), Ulsan,
+      South Korea. She is currently pursuing the M.S. dgree in electrical engineering in 2019 from Pohang University of Science and Technology,Pohang, South Korea. Her current research interests include MPSoC design methodology, system-level power/thermal analysis and management, and power-efficient deep learning neural network architecture. 
 
 education:
     - degree: PhD in Rural Systems Engineering
