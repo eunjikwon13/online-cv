@@ -48,44 +48,23 @@ career-profile:
       South Korea. She is currently pursuing the M.S. dgree in electrical engineering in 2019 from Pohang University of Science and Technology,Pohang, South Korea. Her current research interests include MPSoC design methodology, system-level power/thermal analysis and management, and power-efficient deep learning neural network architecture. 
 
 education:
-    - degree: PhD in Rural Systems Engineering
-      university: Seoul National University
-      time: 2007 - 2014
+    - degree: Ph.D. in Electrical Engineering
+      university: Pohang University of Science and Technology (POSTECH)
+      time: Feb.2021 - Present
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+  
 
-          - Bullet point
-          - Bullet point
-
-    - degree: MEng in Rural Systems Engineering
-      university: Seoul National University
-      time: 2005 - 2007
+    - degree: M.Sc. in Electrical Engineering
+      university: Pohang University of Science and Technology (POSTECH)
+      time: Feb.2019 - Feb.2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
 
-    - degree: BEng in Agricultural Civil Engineering
-      university: Seoul National University
-      time: 2001 - 2005
+    - degree: B.Sc. in Mechanical Engineering
+      university: Ulsan National Institute of Science and Technology (UNIST)
+      time: Mar.2013 - July.2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
 
 experiences:
     - role: Postdoctoral Associate 
