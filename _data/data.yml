@@ -67,61 +67,16 @@ education:
 
 
 experiences:
-    - role: Postdoctoral Associate 
-      time: 2014 - Present
-      company: Institute on the Environment, University of Minnesota
+    - role: Graduate Student
+      time: Feb. 2019 - Present
+      company: CAD & SoC Design Lab in POSTECH, Prof. Seokyeong Kang
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Researcher
-      time: 2014
-      company: Institute of Green Bio Science and Technology, Seoul National University
+    - role: Undergraduate Student Researcher Intern 
+      time: Jan. 2017 - Feb. 2017 
+      company:  LAB: ACRC Lab in WPI, Boston, Pdoc. Eunkyung
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
-
-    - role: Research Associate
-      time: 2007 - 2014
-      company: Seoul National University, Seoul
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: Research Assistant
-      time: 2002 - 2007
-      company: Seoul National University, Seoul
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
 projects:
     title: Projects
@@ -131,21 +86,29 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: FoodS<sup>3</sup>
-        link: "http://foodscube.umn.edu"
-        tagline: "Food Systems Supply-chain Sustainability tool (FoodS3) for researcher"
+      - title: Deep learning and Development of Voice Interactive Smart Home Control System Based on Internet of Home Things (IoHT)
+        link: |
+        tagline: "POSCO Future IT Convergence Research Institute, POSTECH, et al., Dec.2017 - Dec.2020"
 
-      - title: FoodS3.org
-        link: "http://foods3.org"
-        tagline: "Landing page as single-page application for FoodS3 project"
+      - title: Power/thermal analysis and management for MPSoC mobile device systems
+        link: |
+        tagline: "Samsung Electronics, July.2014 - June.2021"
 
-      - title: Korean Daily Weather API
-        link: "https://project.taegon.kr/ksae"
-        tagline: "This page is demo page for Korean Daily Weather RESTful API. Taegon Kim et al. (2014), Development of RESTful Web Service for Loading Data focusing on Daily Meteorological Data, Journal of the Korean Society of Agricultural Engineers 56(6): 93-102. (in Korean)"
-
-      - title: GHG reports for cities
-        link: "https://ghgfootprint.com/denver/"
-        tagline: "Community-wide GHG emission inventory site using Django and d3.js"
+      - title: Autonomous Accuracy Scaling for Ultra-low-power Intelligent Mobile Systems
+        link: |
+        tagline: "Samsung Science & Technology Foundation, POSTECH, et al., Aug.2017 - Jul.2020"
+        
+      - title: Speaker Recognition during Business Meeting
+        link: |
+        tagline: "POSCO ICT, Mar.2020 - Dec.2020"
+                
+      - title: FPGA-Based Object Detection Model for Unmanned Submersible 
+        link: |
+        tagline: "LIG Nex 1, June.2021 - Nov.2022"
+        
+      - title: Low-power Vision Transformer Accelerator
+        link: |
+        tagline: "Research Project Manager, National Research Foundation of Korea (NRF), June.2022 - May.2024"
 
 publications:
     title: Publications
