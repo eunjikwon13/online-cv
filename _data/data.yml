@@ -42,10 +42,10 @@ sidebar:
         link:
 
 career-profile:
-    title: Research SW/HW Co-Designer
+    title: Research HW Designer
     summary: |
       <strong>Eunji Kwon</strong> received the B.S. degree in mechanical engineering in 2017 from Ulsan National Institute of Science and Technology (UNIST), Ulsan,
-      South Korea. She received M.S. degree in electrical engineering in 2021 from from Pohang University of Science and Technology (POSTECH), Pohang, South Korea. She is currently pursuing the Ph.D. dgree in electrical engineering in 2021 from POSTECH. Her current research interests include MPSoC design methodology, system-level power/thermal analysis and management, and power-efficient deep learning neural network architecture. 
+      South Korea. She received M.S. degree in electrical engineering in 2021 from from Pohang University of Science and Technology (POSTECH), Pohang, South Korea. She is currently pursuing the Ph.D. degree in electrical engineering in 2021 from POSTECH. Her current research interests include MPSoC design methodology, system-level power/thermal analysis and management, and power-efficient deep learning neural network architecture. 
 
 education:
     - degree: Ph.D. in Electrical Engineering
@@ -113,19 +113,19 @@ projects:
 publications:
     title: Publications
     intro: |
-      Dr. Kim has considerable experience working on multi-disciplinary research teams with modeling and simulation studies such as food supply chain in US, numerical structure analysis, indicating agricultural drought, estimating water footprints, detecting community structures, and calculating circuity factors in Korea. He has published [63 peer-reviewed articles](https://project.taegon.kr/papers/) based on these studies. 
+    
 
-    papers:
-      - title: Subnational mobility and consumption-based environmental accounting of US corn in animal protein and ethanol supply chains
-        authors: Timothy M. Smith, Andrew L. Goodkind, Taegon Kim, Rylie E. O. Pelton, Kyo Suh, and Jennifer Schmitt
-        conference: Proceedings of the National Academy of Sciences of the United States of America (PNAS), 2017
+    papers:    
+      - title: Late Breaking Results: Reinforcement Learning-based Power Management Policy for Mobile Device Systems
+        authors: <strong>Eunji Kwon</strong>, S. Han, Y. Park, Y. H. Kim, S. Kang
+        conference: "2020 57th ACM/IEEE Design Automation Conference (DAC), 2020"
+      
+      - title: Outlier-aware Time-multiplexing MAC for Higher Energy-Efficiency on CNNs
+        authors: <strong>Eunji Kwon</strong>, Y. Kang, S. Kang
+        conference: "International SoC Design Conference (ISOCC), 2019"
 
-      - title: Numerical Solution of Second Order Linear Partial Differential Equations using Agricultural Systems Application Platform
-        authors: SungYong Lee, Taegon Kim, Kyo Suh, Yicheol Han, Jemyung Lee, Hojae Yi, and JeongJae Lee
-        conference: Journal of The Korean Society of Agricultural Engineers, 2016
-
-      - title: Development of RESTful Web Service for Loading Data focusing on Daily Meteorological Data
-        authors: Taegon Kim, JeongJae Lee, Won-Ho Nam, and Kyo Suh
+      - title: Approach to Improve the Performance using Bit-level Sparsity in Neural Networks
+        authors: Y. Kang, <strong>Eunji Kwon</strong>, S. Lee, Y. Byun, Y. Lee and S. Kang
         conference: Journal of The Korean Society of Agricultural Engineers, 2014
 
       - title: Environmental and Economic Implications of Bioethanol Blending for the Renewable Fuel Standard in South Korea
