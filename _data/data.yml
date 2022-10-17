@@ -182,11 +182,11 @@ publications:
 
       - title: GRLC: Grid-based Run-length Compression for Energy-efficient CNN Accelerator
         authors: Y. Park, Y. Kang, S. Kim, E. Kwon and S. Kang
-        conference: International Symposium on Low Power Electronics and Design (ISLPED), 2020
+        conference: ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), 2020
 
       - title: Analysis and Solution of CNN Accuracy Reduction over Channel Loop Tiling
         authors: Y. Kang, Y. Park, S. Kim, E. Kwon, T. Lim, S. Oh, M. Woo, and S. Kang
-        conference: Jesign Automation and Test in Europe (DATE), 2020
+        conference: Design Automation and Test in Europe (DATE), 2020
 
 
 
