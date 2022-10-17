@@ -157,13 +157,13 @@ publications:
       Dr. Kim has considerable experience working on multi-disciplinary research teams with modeling and simulation studies such as food supply chain in US, numerical structure analysis, indicating agricultural drought, estimating water footprints, detecting community structures, and calculating circuity factors in Korea. He has published [63 peer-reviewed articles](https://project.taegon.kr/papers/) based on these studies. 
 
     papers:
-      - title: Reinforcement Learning-based Power Management Policy for Mobile Device Systems
-        authors: E. Kwon, S. Han, Y. Park, J. Yoon and S. Kang
-        conference: IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I), 2021
+#       - title: Reinforcement Learning-based Power Management Policy for Mobile Device Systems
+#         authors: E. Kwon, S. Han, Y. Park, J. Yoon and S. Kang
+#         conference: IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I), 2021
 
-      - title: Late Breaking Results: Reinforcement Learning-based Power Management Policy for Mobile Device Systems
-        authors: E. Kwon, S. Han, Y. Park, Y. H. Kim and S. Kang
-        conference: 57th ACM/IEEE Design Automation Conference (DAC), 2020
+#       - title: Late Breaking Results: Reinforcement Learning-based Power Management Policy for Mobile Device Systems
+#         authors: E. Kwon, S. Han, Y. Park, Y. H. Kim and S. Kang
+#         conference: 57th ACM/IEEE Design Automation Conference (DAC), 2020
 
 #       - title: Outlier-aware Time-multiplexing MAC for Higher Energy-Efficiency on CNNs
 #         authors: E. Kwon, Y. Kang and S. Kang
