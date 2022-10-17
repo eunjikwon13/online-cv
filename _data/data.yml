@@ -7,12 +7,12 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Taegon Kim
-    tagline: Research Software Engineer
+    name: Eunji Kwon
+    tagline: Research Hardware Engineer
     avatar: EunjiKwon.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: taegon.k@gmail.com
+    email: eunjikwon@postech.ac.kr
     phone: 425 219 8377
     website: code.taegon.kr #do not add http://
     linkedin: taegon
@@ -42,12 +42,9 @@ sidebar:
         link:
 
 career-profile:
-    title: Research Software Engineer
+    title: Research Hardware Engineer
     summary: |
-      Taegon Kim is a postdoctoral associate with NorthStar Initiative for Sustainable Enterprise at the University of Minnesota’s Institute on the Environment. He received his M.S. and Ph.D. in rural systems engineering and his B.S. in agricultural civil engineering from Seoul National University in South Korea.
-    
-      He is now developing simulation models and web-based interactive tools for agricultural supply chain decision-makers at IonE. He is particularly interested in developing a simulation platform that will allow researchers to easily build, test, evaluate, and visualize models related to agricultural and environmental research.
-
+      <strong>Eunji Kwon</strong> received the B.S. degree in mechanical engineering in 2017 from Ulsan National Institute of Science and Technology (UNIST), Ulsan, South Korea. She received M.S. degree in electrical engineering in 2021 from from Pohang University of Science and Technology (POSTECH), Pohang, South Korea. She is currently pursuing the Ph.D. degree in electrical engineering in 2021 from POSTECH. Her current research interests include MPSoC design methodology, system-level power/thermal analysis and management, and power-efficient deep learning neural network architecture.
 education:
     - degree: PhD in Rural Systems Engineering
       university: Seoul National University
@@ -89,9 +86,9 @@ education:
           - Bullet point
 
 experiences:
-    - role: Postdoctoral Associate 
-      time: 2014 - Present
-      company: Institute on the Environment, University of Minnesota
+    - role: Graduate Student 
+      time: 2021 - Present
+      company: POSTECH
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
