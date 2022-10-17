@@ -154,40 +154,61 @@ projects:
 publications:
     title: Publications
     intro: |
-      Er. Kim has considerable experience working on multi-disciplinary research teams with modeling and simulation studies such as food supply chain in US, numerical structure analysis, indicating agricultural drought, estimating water footprints, detecting community structures, and calculating circuity factors in Korea. He has published [63 peer-reviewed articles](https://project.taegon.kr/papers/) based on these studies. 
+      Eunji Kwon's publications (journals and conferences) 
 
     papers:
       - title: Reinforcement Learning-based Power Management Policy for Mobile Device Systems
         authors: E. Kwon, S. Han, Y. Park, J. Yoon and S. Kang
-        conference: IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I), 2021
+        conference: EEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I), 2021
 
-      - title: Late Breaking Results: Reinforcement Learning-based Power Management Policy for Mobile Device Systems
-        authors: E. Kwon, S. Han, Y. Park, Y. H. Kim and S. Kang
-        conference: J57th ACM/IEEE Design Automation Conference (DAC), 2020
+      - title: Numerical Solution of Second Order Linear Partial Differential Equations using Agricultural Systems Application Platform
+        authors: SungYong Lee, Taegon Kim, Kyo Suh, Yicheol Han, Jemyung Lee, Hojae Yi, and JeongJae Lee
+        conference: Journal of The Korean Society of Agricultural Engineers, 2016
 
-      - title: Outlier-aware Time-multiplexing MAC for Higher Energy-Efficiency on CNNs
-        authors: E. Kwon, Y. Kang and S. Kang
-        conference: International SoC Design Conference (ISOCC), 2019
+      - title: Development of RESTful Web Service for Loading Data focusing on Daily Meteorological Data
+        authors: Taegon Kim, JeongJae Lee, Won-Ho Nam, and Kyo Suh
+        conference: Journal of The Korean Society of Agricultural Engineers, 2014
 
-      - title: Adaptive FSP: Adaptive Architecture Search with Filter Shape Pruning
-        authors: A. Kim, S. Lee, E. Kwon and S. Kang
-        conference: 16th Asian Conference on Computer Vision (ACCV), 2022
+      - title: Environmental and Economic Implications of Bioethanol Blending for the Renewable Fuel Standard in South Korea
+        authors: Taegon Kim, Jimin Lee, SungYong Lee, and Kyo Suh
+        conference: Transactions of the ASABE, 2014
+# publications:
+#     title: Publications
+#     intro: |
+#       Er. Kim has considerable experience working on multi-disciplinary research teams with modeling and simulation studies such as food supply chain in US, numerical structure analysis, indicating agricultural drought, estimating water footprints, detecting community structures, and calculating circuity factors in Korea. He has published [63 peer-reviewed articles](https://project.taegon.kr/papers/) based on these studies. 
 
-      - title: Approach to Improve the Performance using Bit-level Sparsity in Neural Networks
-        authors: Y. Kang, E. Kwon, S. Lee, Y. Byun, Y. Lee and S. Kang
-        conference: Design Automation and Test in Europe (DATE), 2021
+#     papers:
+#       - title: Reinforcement Learning-based Power Management Policy for Mobile Device Systems
+#         authors: E. Kwon, S. Han, Y. Park, J. Yoon and S. Kang
+#         conference: IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I), 2021
 
-      - title: MDARTS: Multi-objective Differentiable Neural Architecture Search
-        authors: S. Kim, H. Kwon, E. Kwon, Y. Choi, T. Oh and S. Kang
-        conference: Design Automation and Test in Europe (DATE), 2021      
+#       - title: Late Breaking Results: Reinforcement Learning-based Power Management Policy for Mobile Device Systems
+#         authors: E. Kwon, S. Han, Y. Park, Y. H. Kim and S. Kang
+#         conference: J57th ACM/IEEE Design Automation Conference (DAC), 2020
 
-      - title: GRLC: Grid-based Run-length Compression for Energy-efficient CNN Accelerator
-        authors: Y. Park, Y. Kang, S. Kim, E. Kwon and S. Kang
-        conference: International Symposium on Low Power Electronics and Design (ISLPED), 2020  
+#       - title: Outlier-aware Time-multiplexing MAC for Higher Energy-Efficiency on CNNs
+#         authors: E. Kwon, Y. Kang and S. Kang
+#         conference: International SoC Design Conference (ISOCC), 2019
 
-      - title: Analysis and Solution of CNN Accuracy Reduction over Channel Loop Tiling
-        authors: Y. Kang, Y. Park, S. Kim, E. Kwon, T. Lim, S. Oh, M. Woo, and S. Kang
-        conference: Design Automation and Test in Europe (DATE), 2020
+#       - title: Adaptive FSP: Adaptive Architecture Search with Filter Shape Pruning
+#         authors: A. Kim, S. Lee, E. Kwon and S. Kang
+#         conference: 16th Asian Conference on Computer Vision (ACCV), 2022
+
+#       - title: Approach to Improve the Performance using Bit-level Sparsity in Neural Networks
+#         authors: Y. Kang, E. Kwon, S. Lee, Y. Byun, Y. Lee and S. Kang
+#         conference: Design Automation and Test in Europe (DATE), 2021
+
+#       - title: MDARTS: Multi-objective Differentiable Neural Architecture Search
+#         authors: S. Kim, H. Kwon, E. Kwon, Y. Choi, T. Oh and S. Kang
+#         conference: Design Automation and Test in Europe (DATE), 2021      
+
+#       - title: GRLC: Grid-based Run-length Compression for Energy-efficient CNN Accelerator
+#         authors: Y. Park, Y. Kang, S. Kim, E. Kwon and S. Kang
+#         conference: International Symposium on Low Power Electronics and Design (ISLPED), 2020  
+
+#       - title: Analysis and Solution of CNN Accuracy Reduction over Channel Loop Tiling
+#         authors: Y. Kang, Y. Park, S. Kim, E. Kwon, T. Lim, S. Oh, M. Woo, and S. Kang
+#         conference: Design Automation and Test in Europe (DATE), 2020
 
 
 skills:
