@@ -13,10 +13,10 @@ sidebar:
 
     # Sidebar links
     email: eunjikwon@postech.ac.kr
-    phone: 425 219 8377
-    website: code.taegon.kr #do not add http://
-    linkedin: taegon
-    github: taegon
+    phone: +82 54 279 2883
+    website: 
+    linkedin: eunji-kwon-07257119
+    github: eunjikwon13
     gitlab:
     bitbucket:
     twitter: 
@@ -32,13 +32,13 @@ sidebar:
         level: Professional
 
     interests:
-      - item: d3.js
+      - item: Deep Learning Hardware Accelerator
         link:
 
-      - item: python
+      - item: Deep Learning SW/HW Co-optimization
         link:
 
-      - item: simulation
+      - item: Power Management on Mobile Device Systems
         link:
 
 career-profile:
@@ -46,9 +46,9 @@ career-profile:
     summary: |
       <strong>Eunji Kwon</strong> received the B.S. degree in mechanical engineering in 2017 from Ulsan National Institute of Science and Technology (UNIST), Ulsan, South Korea. She received M.S. degree in electrical engineering in 2021 from from Pohang University of Science and Technology (POSTECH), Pohang, South Korea. She is currently pursuing the Ph.D. degree in electrical engineering in 2021 from POSTECH. Her current research interests include MPSoC design methodology, system-level power/thermal analysis and management, and power-efficient deep learning neural network architecture.
 education:
-    - degree: PhD in Rural Systems Engineering
-      university: Seoul National University
-      time: 2007 - 2014
+    - degree: Ph.D. in Electrical Engineering
+      university: POSTECH
+      time: 2021 - present
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -59,9 +59,9 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: MEng in Rural Systems Engineering
-      university: Seoul National University
-      time: 2005 - 2007
+    - degree: M.Sc. in Electrical Engineering
+      university: POSTECH
+      time: 2019 - 2021
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -72,9 +72,9 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BEng in Agricultural Civil Engineering
-      university: Seoul National University
-      time: 2001 - 2005
+    - degree: B.Sc. in Mechanical Engineering
+      university: UNIST
+      time: 2013 - 2017
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -103,9 +103,9 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: Senior Researcher
-      time: 2014
-      company: Institute of Green Bio Science and Technology, Seoul National University
+    - role: Undergraduate Student Research Intern
+      time: 2017
+      company: ACRC Laboratory in WPI, Boston, Pdoc. Eunkyung
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
