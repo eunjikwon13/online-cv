@@ -7,16 +7,16 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Eunji Kwon
-    tagline: Research Hardware Engineer
-    avatar: EunjiKwon.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Taegon Kim
+    tagline: Research Software Engineer
+    avatar: profile_TK.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: eunjikwon@postech.ac.kr
-    phone: 054 279 2883
-    website: eunjikwon13.github.io #do not add http://
-    linkedin: eunji-kwon-07257119a
-    github: eunjikwon13
+    email: taegon.k@gmail.com
+    phone: 425 219 8377
+    website: code.taegon.kr #do not add http://
+    linkedin: taegon
+    github: taegon
     gitlab:
     bitbucket:
     twitter: 
@@ -32,38 +32,118 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Deep Learning Hardware Accelerator
+      - item: d3.js
         link:
 
-      - item: Deep Learning Optimization
+      - item: python
         link:
 
-      - item: Power Management on Mobile Device Systems
+      - item: simulation
         link:
 
 career-profile:
-    title: Research HW Designer
+    title: Research Software Engineer
     summary: |
-      <strong>Eunji Kwon</strong> received the B.S. degree in mechanical engineering in 2017 from Ulsan National Institute of Science and Technology (UNIST), Ulsan, South Korea. She received M.S. degree in electrical engineering in 2021 from from Pohang University of Science and Technology (POSTECH), Pohang, South Korea. She is currently pursuing the Ph.D. degree in electrical engineering in 2021 from POSTECH. Her current research interests include MPSoC design methodology, system-level power/thermal analysis and management, and power-efficient deep learning neural network architecture. 
+      Taegon Kim is a postdoctoral associate with NorthStar Initiative for Sustainable Enterprise at the University of Minnesota’s Institute on the Environment. He received his M.S. and Ph.D. in rural systems engineering and his B.S. in agricultural civil engineering from Seoul National University in South Korea.
+    
+      He is now developing simulation models and web-based interactive tools for agricultural supply chain decision-makers at IonE. He is particularly interested in developing a simulation platform that will allow researchers to easily build, test, evaluate, and visualize models related to agricultural and environmental research.
 
 education:
-    - degree: Ph.D. in Electrical Engineering
-      university: Pohang University of Science and Technology (POSTECH)
-      time: Feb.2021 - Present
+    - degree: PhD in Rural Systems Engineering
+      university: Seoul National University
+      time: 2007 - 2014
       details: |
-  
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
 
-    - degree: M.Sc. in Electrical Engineering
-      university: Pohang University of Science and Technology (POSTECH)
-      time: Feb.2019 - Feb.2021
+          - Bullet point
+          - Bullet point
+
+    - degree: MEng in Rural Systems Engineering
+      university: Seoul National University
+      time: 2005 - 2007
       details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
 
+          - Bullet point
+          - Bullet point
 
-    - degree: B.Sc. in Mechanical Engineering
-      university: Ulsan National Institute of Science and Technology (UNIST)
-      time: Mar.2013 - July.2017
+    - degree: BEng in Agricultural Civil Engineering
+      university: Seoul National University
+      time: 2001 - 2005
       details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
 
+          - Bullet point
+          - Bullet point
+
+experiences:
+    - role: Postdoctoral Associate 
+      time: 2014 - Present
+      company: Institute on the Environment, University of Minnesota
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+
+          - Bullet point
+          - Bullet point
+
+    - role: Senior Researcher
+      time: 2014
+      company: Institute of Green Bio Science and Technology, Seoul National University
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+
+    - role: Research Associate
+      time: 2007 - 2014
+      company: Seoul National University, Seoul
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+
+    - role: Research Assistant
+      time: 2002 - 2007
+      company: Seoul National University, Seoul
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
 
 projects:
     title: Projects
@@ -73,46 +153,38 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Deep learning and Development of Voice Interactive Smart Home Control System Based on Internet of Home Things (IoHT)
-        link: |
-        tagline: "POSCO Future IT Convergence Research Institute, POSTECH, et al., Dec.2017 - Dec.2020"
+      - title: FoodS<sup>3</sup>
+        link: "http://foodscube.umn.edu"
+        tagline: "Food Systems Supply-chain Sustainability tool (FoodS3) for researcher"
 
-      - title: Power/thermal analysis and management for MPSoC mobile device systems
-        link: |
-        tagline: "Samsung Electronics, July.2014 - June.2021"
+      - title: FoodS3.org
+        link: "http://foods3.org"
+        tagline: "Landing page as single-page application for FoodS3 project"
 
-      - title: Autonomous Accuracy Scaling for Ultra-low-power Intelligent Mobile Systems
-        link: |
-        tagline: "Samsung Science & Technology Foundation, POSTECH, et al., Aug.2017 - Jul.2020"
-        
-      - title: Speaker Recognition during Business Meeting
-        link: |
-        tagline: "POSCO ICT, Mar.2020 - Dec.2020"
-                
-      - title: FPGA-Based Object Detection Model for Unmanned Submersible 
-        link: |
-        tagline: "LIG Nex 1, June.2021 - Nov.2022"
-        
-      - title: Low-power Vision Transformer Accelerator
-        link: |
-        tagline: "Research Project Manager, National Research Foundation of Korea (NRF), June.2022 - May.2024"
+      - title: Korean Daily Weather API
+        link: "https://project.taegon.kr/ksae"
+        tagline: "This page is demo page for Korean Daily Weather RESTful API. Taegon Kim et al. (2014), Development of RESTful Web Service for Loading Data focusing on Daily Meteorological Data, Journal of the Korean Society of Agricultural Engineers 56(6): 93-102. (in Korean)"
+
+      - title: GHG reports for cities
+        link: "https://ghgfootprint.com/denver/"
+        tagline: "Community-wide GHG emission inventory site using Django and d3.js"
 
 publications:
     title: Publications
     intro: |
-    
+      Dr. Kim has considerable experience working on multi-disciplinary research teams with modeling and simulation studies such as food supply chain in US, numerical structure analysis, indicating agricultural drought, estimating water footprints, detecting community structures, and calculating circuity factors in Korea. He has published [63 peer-reviewed articles](https://project.taegon.kr/papers/) based on these studies. 
 
-    papers:    
-      - title: Late Breaking Results: Reinforcement Learning-based Power Management Policy for Mobile Device Systems
-        authors: <strong>Eunji Kwon</strong>, S. Han, Y. Park, Y. H. Kim, S. Kang
-        conference: "2020 57th ACM/IEEE Design Automation Conference (DAC), 2020"
-      
-      - title: Outlier-aware Time-multiplexing MAC for Higher Energy-Efficiency on CNNs
-        authors: <strong>Eunji Kwon</strong>, Y. Kang, S. Kang
-        conference: "International SoC Design Conference (ISOCC), 2019"
+    papers:
+      - title: Subnational mobility and consumption-based environmental accounting of US corn in animal protein and ethanol supply chains
+        authors: Timothy M. Smith, Andrew L. Goodkind, Taegon Kim, Rylie E. O. Pelton, Kyo Suh, and Jennifer Schmitt
+        conference: Proceedings of the National Academy of Sciences of the United States of America (PNAS), 2017
 
-      - title: Approach to Improve the Performance using Bit-level Sparsity in Neural Networks
-        authors: Y. Kang, <strong>Eunji Kwon</strong>, S. Lee, Y. Byun, Y. Lee and S. Kang
+      - title: Numerical Solution of Second Order Linear Partial Differential Equations using Agricultural Systems Application Platform
+        authors: SungYong Lee, Taegon Kim, Kyo Suh, Yicheol Han, Jemyung Lee, Hojae Yi, and JeongJae Lee
+        conference: Journal of The Korean Society of Agricultural Engineers, 2016
+
+      - title: Development of RESTful Web Service for Loading Data focusing on Daily Meteorological Data
+        authors: Taegon Kim, JeongJae Lee, Won-Ho Nam, and Kyo Suh
         conference: Journal of The Korean Society of Agricultural Engineers, 2014
 
       - title: Environmental and Economic Implications of Bioethanol Blending for the Renewable Fuel Standard in South Korea
