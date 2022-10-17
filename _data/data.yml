@@ -206,7 +206,19 @@ skills:
       - name: CUDA
         level: 75%
 
-      - name: Xilinx Vivado/ Vivado HLS / Xilinx Petalinux
+      - name: Xilinx Vivado
+        level: 85%
+
+      - name: Xilinx Vivado HLS
+        level: 85%
+
+      - name: Xilinx Petalinux
+        level: 80%
+        
+      - name: Cadence NC-Verilog/Simvision
+        level: 85%
+
+      - name: Synopsys Design Compiler
         level: 85%
 
 footer: >
