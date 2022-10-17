@@ -140,12 +140,20 @@ projects:
 
       - title: Speaker Recognition during Business Meeting
         link: 
-        tagline: "POSCO ICT, Mar.2020 - Dec.2020""
+        tagline: "POSCO ICT, Mar.2020 - Dec.2020"
+
+      - title: FPGA-based Object Detection Model for Unmanned Submersible
+        link: 
+        tagline: "LIG Nex 1, June.2021 - Nov.2022"
+
+      - title: Low-power Vision Transformer Accelerator
+        link: 
+        tagline: "Research Project Manager, National Research Foundation of Korea (NRF), June.2022 - May.2024"
 
 publications:
     title: Publications
     intro: |
-      Dr. Kim has considerable experience working on multi-disciplinary research teams with modeling and simulation studies such as food supply chain in US, numerical structure analysis, indicating agricultural drought, estimating water footprints, detecting community structures, and calculating circuity factors in Korea. He has published [63 peer-reviewed articles](https://project.taegon.kr/papers/) based on these studies. 
+      Eunji Kwon's publications (Journal and Conferences). 
 
     papers:
       - title: Subnational mobility and consumption-based environmental accounting of US corn in animal protein and ethanol supply chains
