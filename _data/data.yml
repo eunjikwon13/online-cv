@@ -153,12 +153,12 @@ projects:
 publications:
     title: Publications
     intro: |
-      Eunji Kwon's publications (journals and conferences) 
+      Eunji Kwon's Publications. 
 
     papers:
-      - title: Reinforcement Learning-based Power Management Policy for Mobile Device Systems
-        authors: E. Kwon, S. Han, Y. Park, J. Yoon and S. Kang
-        conference: IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I), 2021
+      - title: Subnational mobility and consumption-based environmental accounting of US corn in animal protein and ethanol supply chains
+        authors: Timothy M. Smith, Andrew L. Goodkind, Taegon Kim, Rylie E. O. Pelton, Kyo Suh, and Jennifer Schmitt
+        conference: Proceedings of the National Academy of Sciences of the United States of America (PNAS), 2017
 
       - title: Numerical Solution of Second Order Linear Partial Differential Equations using Agricultural Systems Application Platform
         authors: SungYong Lee, Taegon Kim, Kyo Suh, Yicheol Han, Jemyung Lee, Hojae Yi, and JeongJae Lee
@@ -172,6 +172,22 @@ publications:
         authors: Taegon Kim, Jimin Lee, SungYong Lee, and Kyo Suh
         conference: Transactions of the ASABE, 2014
 
+      - title: Numerical Solution of Second Order Linear Partial Differential Equations using Agricultural Systems Application Platform
+        authors: SungYong Lee, Taegon Kim, Kyo Suh, Yicheol Han, Jemyung Lee, Hojae Yi, and JeongJae Lee
+        conference: Journal of The Korean Society of Agricultural Engineers, 2016
+
+      - title: Development of RESTful Web Service for Loading Data focusing on Daily Meteorological Data
+        authors: Taegon Kim, JeongJae Lee, Won-Ho Nam, and Kyo Suh
+        conference: Journal of The Korean Society of Agricultural Engineers, 2014
+
+      - title: Environmental and Economic Implications of Bioethanol Blending for the Renewable Fuel Standard in South Korea
+        authors: Taegon Kim, Jimin Lee, SungYong Lee, and Kyo Suh
+        conference: Transactions of the ASABE, 2014
+        conference: Journal of The Korean Society of Agricultural Engineers, 2014
+
+      - title: Environmental and Economic Implications of Bioethanol Blending for the Renewable Fuel Standard in South Korea
+        authors: Taegon Kim, Jimin Lee, SungYong Lee, and Kyo Suh
+        conference: Transactions of the ASABE, 2014
 # publications:
 #     title: Publications
 #     intro: |
