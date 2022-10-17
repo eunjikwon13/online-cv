@@ -194,20 +194,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python
-        level: 98%
+      - name: Python/C
+        level: 90%
 
-      - name: Java
-        level: 95%
-
-      - name: Front-end with D3.js
+      - name: Pytorch
         level: 85%
 
-      - name: Back-end (PHP/Django/MySQL)
-        level: 80%
+      - name: Verilog
+        level: 85%
 
-      - name: Working with legacy code (c, fortran, VB, exe)
-        level: 95%
+      - name: CUDA
+        level: 75%
+
+      - name: Xilinx Vivado/ Vivado HLS / Xilinx Petalinux
+        level: 85%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
