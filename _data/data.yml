@@ -237,16 +237,16 @@ footer: >
 #         level: 85%
 
 #       - name: C
-#         level: 85%
+#         level: 90%
 
 #       - name: Verilog
 #         level: 75%
 
 #       - name: Cadence-NC Verilog & Simvision
-#         level: 85%
+#         level: 80%
 
 #       - name: Synopsys-Design Compiler
-#         level: 85%
+#         level: 80%
 
 #       - name: Xilinx-Vivado
 #         level: 85%
