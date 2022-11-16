@@ -115,19 +115,27 @@ publications:
       Eunji Kwon's Publications (International Journals and Conferences)
 
     papers:
+      - title: Mobile Accelerator Exploiting Sparsity of Multi-Heads, Lines, and Blocks in Transformers in Computer Vision
+        authors: <strong>E. Kwon</strong>, H. Song, J. Park and S. Kang
+        conference: Design Automation and Test in Europe (DATE), 2023
+ 
       - title: Reinforcement Learning-based Power Management Policy for Mobile Device Systems
         authors: <strong>E. Kwon</strong>, S. Han, Y. Park, J. Yoon and S. Kang
-        conference: IEEE Transactions on Circuits and Systems, Regular Papers (TCAS-I), 2021 
+        conference: IEEE Transactions on Circuits and Systems":" Regular Papers (TCAS-I), 2021 
 
-      - title: Late Breaking Results, Reinforcement Learning-based Power Management Policy for Mobile Device Systems
+      - title: Late Breaking Results":" Reinforcement Learning-based Power Management Policy for Mobile Device Systems
         authors: <strong>E. Kwon</strong>, S. Han, Y. Park, Y. H. Kim and S. Kang
         conference: ACM/IEEE Design Automation Conference (DAC), 2020
 
       - title: Outlier-aware Time-multiplexing MAC for Higher Energy-efficiency on CNNs
         authors: <strong>E. Kwon</strong>, Y. Kang and S. Kang
         conference: International SoC Design Conference (ISOCC), 2019
+        
+      - title: FPGA-Based Accelerator for Rank-Enhanced and Highly-Pruned Block-Circulant Neural Networks
+        authors: H. Song, J. Yoon, D. Kim, <strong>E. Kwon</strong> and S. Kang
+        conference: Design Automation and Test in Europe (DATE), 2023
 
-      - title: Adaptive FSP, Adaptive Architecture Search with Filter Shape Pruning
+      - title: Adaptive FSP":" Adaptive Architecture Search with Filter Shape Pruning
         authors: A. Kim, S. Lee, <strong>E. Kwon</strong> and S. Kang
         conference: 16th Asian Conference on Computer Vision (ACCV), 2022
 
@@ -135,11 +143,11 @@ publications:
         authors: Y. Kang, <strong>E. Kwon</strong>, S. Lee, Y. Byun, Y. Lee and S. Kang
         conference: Design Automation and Test in Europe (DATE), 2021
 
-      - title: MDARTS, Multi-objective Differentiable Neural Architecture Search
+      - title: MDARTS":" Multi-objective Differentiable Neural Architecture Search
         authors: S. Kim, H. Kwon, <strong>E. Kwon</strong>, Y. Choi, T. Oh and S. Kang
         conference: Design Automation and Test in Europe (DATE), 2021
 
-      - title: GRLC, Grid-based Run-length Compression for Energy-efficient CNN Accelerator
+      - title: GRLC":" Grid-based Run-length Compression for Energy-efficient CNN Accelerator
         authors: Y. Park, Y. Kang, S. Kim, <strong>E. Kwon</strong> and S. Kang
         conference: ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), 2020
 
@@ -147,26 +155,7 @@ publications:
         authors: Y. Kang, Y. Park, S. Kim, <strong>E. Kwon</strong>, T. Lim, S. Oh, M. Woo, and S. Kang
         conference: Design Automation and Test in Europe (DATE), 2020
 
-patents:
-    title: Patents
-    intro: |
-    
-    papers:
-      - title: TERNARY LOGIC CIRCUIT DEVICE II
-        authors: Sunmean Kim, <strong>Sung-Yun Lee</strong>, Sunghye Park, Seokhyeong Kang
-        conference: US (Applied) & KR 10-2021-0055864 (Applied)
-        
-      - title: TERNARY LOGIC CIRCUIT DEVICE I
-        authors: Sunmean Kim, <strong>Sung-Yun Lee</strong>, Sunghye Park, Seokhyeong Kang
-        conference: US (Applied) & KR 10-2021-0055863 (Applied)
-      
-      - title: APPARATUS FOR LOW POWER TERNARY LOGIC CIRCUIT
-        authors: Sunmean Kim, <strong>Sung-Yun Lee</strong>, Sunghye Park, Seokhyeong Kang
-        conference: US 17-175570 (Applied) & KR 10-2020-0129024 (Registered)
-        
-      - title: APPARATUS AND METHOD FOR TERNARY LOGIC SYNTHESIS WITH MODIFIED QUINE-MCCLUSKEY ALGORITHM
-        authors: <strong>Sung-Yun Lee</strong>, Sunmean Kim, Seokhyeong Kang
-        conference: US 16/714,583 (Registered)  &  KR 10-2018-0173933 (Registered)
+
 
 skills:
     title: Skills &amp; Proficiency
