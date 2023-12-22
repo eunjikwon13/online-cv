@@ -66,13 +66,17 @@ education:
 
 experiences:
     - role: Graduate Student 
-      time: 2021 - Present
+      time: Feb. 2021 - Present
       company: POSTECH
       details: |
-
+      
+    - role: Visiting Graduate Student
+      time: Aug. 2023 - Feb. 2024
+      company: ACRC Laboratory in WPI, Boston, Pdoc. Eunkyung
+      details: |
 
     - role: Undergraduate Student Research Intern
-      time: 2017
+      time: Jan. 2017 - Feb. 2017
       company: ACRC Laboratory in WPI, Boston, Pdoc. Eunkyung
       details: |
 
@@ -115,6 +119,10 @@ publications:
       Eunji Kwon's Publications (International Journals and Conferences)
 
     papers:
+      - title: Energy-efficient Accelerator Exploiting the Various Sparsity in Transformers with Tile-based Dynamic Quantization
+        authors: <strong>E. Kwon</strong>, J. Yoon and S. Kang
+        conference: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023
+    
       - title: Mobile Accelerator Exploiting Sparsity of Multi-Heads, Lines, and Blocks in Transformers in Computer Vision
         authors: <strong>E. Kwon</strong>, H. Song, J. Park and S. Kang
         conference: ACM/IEEE Design Automation and Test in Europe (DATE), 2023
@@ -126,6 +134,10 @@ publications:
       - title: Late Breaking Results, Reinforcement Learning-based Power Management Policy for Mobile Device Systems
         authors: <strong>E. Kwon</strong>, S. Han, Y. Park, Y. H. Kim and S. Kang
         conference: ACM/IEEE Design Automation Conference (DAC), 2020
+        
+      - title: ViT-ToGo: Vision Transformer Accelerator with Grouped Token Pruning
+        authors: S. Lee, K. Cho, <strong>E. Kwon</strong>, S. Park, S. Kim and S. Kang
+        conference: Design Automation and Test in Europe (DATE), 2024
 
       - title: Outlier-aware Time-multiplexing MAC for Higher Energy-efficiency on CNNs
         authors: <strong>E. Kwon</strong>, Y. Kang and S. Kang
