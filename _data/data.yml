@@ -135,7 +135,7 @@ publications:
         authors: <strong>E. Kwon</strong>, S. Han, Y. Park, Y. H. Kim and S. Kang
         conference: ACM/IEEE Design Automation Conference (DAC), 2020
         
-      - title: ViT-ToGo: Vision Transformer Accelerator with Grouped Token Pruning
+      - title: ViT-ToGo, Vision Transformer Accelerator with Grouped Token Pruning
         authors: S. Lee, K. Cho, <strong>E. Kwon</strong>, S. Park, S. Kim and S. Kang
         conference: Design Automation and Test in Europe (DATE), 2024
 
