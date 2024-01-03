@@ -119,7 +119,7 @@ publications:
       Eunji Kwon's Publications (International Journals and Conferences)
 
     papers:
-      - title: Energy-efficient Accelerator Exploiting the Various Sparsity in Transformers with Tile-based Dynamic Quantization
+      - title: Mobile Transformer Accelerator Exploiting Various Line Sparsity and Tile-based Dynamic Quantization
         authors: <strong>E. Kwon</strong>, J. Yoon and S. Kang
         conference: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023
     
