@@ -119,7 +119,7 @@ publications:
       Eunji Kwon's Publications (International Journals and Conferences)
 
     papers:
-      - title: RL-PTQ&#58; RL-based Mixed Precision Quantization for Hybrid Vision Transformers
+      - title: RL-PTQ &#58; RL-based Mixed Precision Quantization for Hybrid Vision Transformers
         authors: <strong>E. Kwon</strong>, M. Zhou, W. Xu, T. Losing and S. Kang
         conference: ACM/IEEE Design Automation Conference (DAC), 2024
     
